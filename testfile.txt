@@ -1,3 +1,4 @@
 this is a test file for demoing git
 This is a line to show branching
+Make this line to cause a merge issue
 This is an extra line in the main branch 
